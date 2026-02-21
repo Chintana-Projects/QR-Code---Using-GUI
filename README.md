@@ -1,5 +1,6 @@
 # QR Code Generator using GUI 
 
+~ Execute In PyCharm ~
 This project is a QR Code Generator application built using Python's tkinter library for the GUI and qrcode library for generating QR codes.
 
 It allows users to create custom QR codes with various options:
