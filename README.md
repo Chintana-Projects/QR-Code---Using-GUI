@@ -1,5 +1,4 @@
 # QR Code Generator using GUI 
-# (Extra-1)
 
 ~ Execute In PyCharm ~
 
